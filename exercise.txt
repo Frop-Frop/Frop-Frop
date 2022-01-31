@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-something great
-"exercise" is the correct way to write
-=======
 something great
 "exercise" is the correct way to write
 there was some new api added
 rhe new api continues evolving
->>>>>>> new-api
